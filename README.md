@@ -23,7 +23,27 @@ To effectively and sustainably integrate AI into workflows, businesses should fo
 
 2. **Rely entirely on computer engineers to keep AI solutions updated**: Relying solely on engineers creates a knowledge gap. For AI to be truly effective, the end-users (business staff) must also understand and participate in the operation and feedback loop.
 
+
+## The process of training AI models
+
+AI designers develop AI models through a process called training. Here’s an example of the typical steps a designer might take in this process, in this case for building a model that predicts rainfall:
+
+1. **Define the problem to be solved**. AI designers want to predict rain to help people stay dry when commuting to and from work. They consider the AI tool’s features and limitations before identifying an AI solution.
+
+2. **Collect relevant data to train the model**. AI designers gather historical data of days when it rained and days when it didn't rain over the past 50 years.
+
+3. **Prepare the data for training**. AI designers prepare the data by labeling important features, like outdoor temperature, humidity, and air pressure, and then noting whether it rained. It's also common to separate the data into two distinct sets: a training set to use during the training step and a validation set to test after training is complete.
+
+3. **Train the model**. AI designers apply machine learning (ML) programs to the prepared training data. As the ML programs analyze the data, they begin learning how to recognize patterns that indicate the likelihood of rainfall, like the combination of high temperatures, low air pressure, and high humidity.
+
+4. **Evaluate the model**. AI designers use the validation set they prepared earlier to assess their model's ability to predict rainfall accurately and reliably. Analyzing a model's performance can uncover potential issues impacting the model, like insufficient or biased training data. If any issues exist, the AI designers can revisit an earlier step in the process and try a different approach. Once the model performs well with its validation set, the process continues to the next step.
+
+5. **Deploy the model**. When the AI designers are satisfied with their model's performance, they deploy it in an AI tool—helping people in their city stay dry on their way to work.
+
 ## Awesome links:
 
 ### 1. [Pair Explorables](https://pair.withgoogle.com/explorables/):
 A Collection of interactive articles that can help you explore differnet AI Concepts and experience how they work.
+
+### 2. [Neural Filters](https://expertphotography.com/photoshop-neural-filters)
+AI tool ​that's built right into Adobe Photoshop. ​It lets you edit images by blurring backgrounds, ​adjusting colors, changing facial expressions, ​and much more
