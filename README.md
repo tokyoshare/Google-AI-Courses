@@ -40,6 +40,9 @@ AI designers develop AI models through a process called training. Here’s an ex
 
 5. **Deploy the model**. When the AI designers are satisfied with their model's performance, they deploy it in an AI tool—helping people in their city stay dry on their way to work.
 
+   <img width="3101" height="8192" alt="Rain Prediction Model-2026-04-05-020144" src="https://github.com/user-attachments/assets/feef2e6d-3b33-4e18-a035-8a682d92e596" />
+
+
 ## Awesome links:
 
 ### 1. [Pair Explorables](https://pair.withgoogle.com/explorables/):
